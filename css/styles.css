@@ -313,6 +313,20 @@ caption {
   text-align: left;
 }
 
+.zmap{
+  position: relative;
+  padding-bottom: 90%; 
+  height: 0;
+  overflow: hidden;
+}
+.zmap iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 th {
   text-align: inherit;
   text-align: -webkit-match-parent;
@@ -469,11 +483,6 @@ legend + * {
 output {
   display: inline-block;
 }
-
-iframe {
-  border: 0;
-}
-
 summary {
   display: list-item;
   cursor: pointer;
