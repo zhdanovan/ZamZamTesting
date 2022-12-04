@@ -11429,7 +11429,7 @@ header.masthead {
 header.masthead .masthead-subheading {
   font-size: 48px;
   font-weight: 800;
-  line-height: 1.5rem;
+  line-height: 4.5rem;
   margin-bottom: 25px;
   text-shadow: 5px 4px 2px rgba(0, 0, 0, 0.25) !important;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -11453,8 +11453,8 @@ header.masthead .masthead-heading {
   header.masthead .masthead-subheading {
     font-size: 48px;
     font-weight: 800;
-    line-height: 2.25rem;
-    margin-bottom: 2rem;
+    line-height: 4.25rem;
+    margin-bottom: 5rem;
    
   }
   header.masthead .masthead-heading {
